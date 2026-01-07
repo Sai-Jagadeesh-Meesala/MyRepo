@@ -4,3 +4,4 @@ if num % 2 == 0:
    print(f"{num} is Even")
 else:
    print(f"{num} is Odd")
+adding new code to line in the commit lets see that i can trouble shoot
