@@ -5,3 +5,4 @@ if num % 2 == 0:
 else:
    print(f"{num} is Odd")
 adding new code to line in the commit lets see that i can trouble shoot
+hello bro how are you
